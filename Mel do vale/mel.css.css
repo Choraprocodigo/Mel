@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/Foto\ de\ fund.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 60%;
+ }
+    
+
+
+img{
+    width: 59%;
+    height: 500px ;
+ }
